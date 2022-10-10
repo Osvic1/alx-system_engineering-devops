@@ -8,3 +8,4 @@
 7.Create file with a hard name and some words \
 8.Write into a file \
 9.Duplicate the last line of a file \
+10.Delete all regular files with a .js \

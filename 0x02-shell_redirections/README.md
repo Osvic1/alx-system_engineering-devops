@@ -11,3 +11,13 @@
 10.Delete all regular files with a .js \
 11.Count dirs and subdirs recursively \
 12.Display 10 newest files \
+13.Print words that appear exactly once
+14.Display lines containg patter root
+15.Display number of lines with pattern bin
+16.Display 3 lines after pattern root
+17.Display lines without pattern bin
+18.Display all lines starting with a letter
+19.Replace characters
+20.Remove all letters cC from input
+21.Reverse input
+22.Display users and their home dirs

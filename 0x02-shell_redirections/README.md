@@ -9,3 +9,5 @@
 8.Write into a file \
 9.Duplicate the last line of a file \
 10.Delete all regular files with a .js \
+11.Count dirs and subdirs recursively \
+

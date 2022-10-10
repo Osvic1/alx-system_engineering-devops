@@ -10,4 +10,4 @@
 9.Duplicate the last line of a file \
 10.Delete all regular files with a .js \
 11.Count dirs and subdirs recursively \
-
+12.Display 10 newest files \

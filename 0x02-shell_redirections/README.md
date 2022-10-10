@@ -3,3 +3,4 @@
 2.Display content of /etc/passwd file /n
 3.Display content of two files /n
 4.Display content of the last 10 line 
+5.Display first 5-lines
